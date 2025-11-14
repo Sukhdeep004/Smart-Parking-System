@@ -1,4 +1,4 @@
-#Parking Management System
+## Parking Management System
 
 A complete, modern, and interactive web-based Car Parking Management System built with PHP and MySQL. This system provides administrators with powerful tools to efficiently manage parking slots, monitor vehicle entries/exits, track payments, and generate insightful analytics.
 
