@@ -1,4 +1,4 @@
-## Parking Management System
+<img width="1899" height="907" alt="Screenshot 2025-11-06 153139" src="https://github.com/user-attachments/assets/60f76837-cbda-4812-b6e1-def52e58a0cd" />## Parking Management System
 
 A complete, modern, and interactive web-based Car Parking Management System built with PHP and MySQL. This system provides administrators with powerful tools to efficiently manage parking slots, monitor vehicle entries/exits, track payments, and generate insightful analytics.
 
@@ -27,15 +27,6 @@ A complete, modern, and interactive web-based Car Parking Management System buil
 - **Print Support**: Print-optimized reports
 - **Animations**: Smooth AOS animations and CountUp effects
 - **Security**: SQL injection prevention, XSS protection, password hashing
-
-## 📸 Screenshots
-
-- Landing Page with hero section and features
-- Admin login with animated card
-- Dashboard with stats cards and charts
-- Slot management with color-coded grid
-- Vehicle entry/exit forms
-- Interactive reports with filters
 
 ## 🛠️ Technology Stack
 
@@ -286,4 +277,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
+
+
+<img width="1899" height="907" alt="Screenshot 2025-11-06 153139" src="https://github.com/user-attachments/assets/c8de4b77-309c-4b06-88d8-467e845927e0" />
+
+
 **Made with ❤️ for efficient parking management**
+
