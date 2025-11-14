@@ -275,12 +275,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [ ] Online payment gateway integration
 - [ ] REST API for third-party integrations
 
----
-
+**Made with ❤️ for efficient parking management**
 
 
 <img width="1899" height="907" alt="Screenshot 2025-11-06 153139" src="https://github.com/user-attachments/assets/c8de4b77-309c-4b06-88d8-467e845927e0" />
 
 
-**Made with ❤️ for efficient parking management**
 
